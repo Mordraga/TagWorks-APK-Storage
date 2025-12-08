@@ -1,2 +1,2 @@
 # TagWorks-APK-Storage
-A collection of APKs used in apps I am developing.
+Consider this whole repo just an easy to distribute method of release APKs until I can host them on google play store.
